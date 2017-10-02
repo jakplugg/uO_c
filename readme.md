@@ -1,5 +1,5 @@
 
-# \mu   O_c 
+# &#956;O_c 
 
 ### 8hp version of ornament and crime polymorphic CV generator by MXMXMX.
 
